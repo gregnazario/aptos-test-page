@@ -159,7 +159,7 @@ function App(props: { expectedNetwork: Network }) {
                 <Row align="middle">
                     <Col span={10} offset={2}>
                         <h1>Wallet tester ({props.expectedNetwork}) <a
-                            href="https://github.com/gregnazario/aptos-wallet-tester">Source Code</a></h1>
+                            href="https://github.com/gregnazario/aptos-test-page">Source Code</a></h1>
                     </Col>
                     <Col span={12} style={{textAlign: "right", paddingRight: "200px"}}>
                         <WalletSelector/>
